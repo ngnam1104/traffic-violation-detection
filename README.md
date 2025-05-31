@@ -12,11 +12,13 @@ pip install -r requirements.txt
 
 # Training
 
-Run training with the command:
+Run training with the command (in Kaggle):
 
 ```bash
-python train.py --model yolov12n.pt --data datasets/data.yaml --epochs 50 --batch 16 --imgsz 640 --name yolov12-custom --project runs/train
+python traffic-violation-detection/train.py --model /kaggle/working/traffic-violation-detection/yolo12n.pt --data /kaggle/input/traffic-violation-datasets/traffic-vio-detect/data.yaml  --epochs 50 --batch 16 --imgsz 640 --name yolov12-custom --project runs/train
 ```
+
+Dataset: https://www.kaggle.com/datasets/nhn309261/traffic-violation-datasets
 
 # Running Inference (Main)
 
