@@ -1,0 +1,7 @@
+Bien so xe: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/11
+Đèn đỏ, xanh, vàng: https://universe.roboflow.com/bolbol-duawh/trafic_lights_detection/dataset/3
+Vạch qua đường: https://universe.roboflow.com/tom-lai-8bp7n/crosswalk-xlzhu/dataset/6/download
+Phương tiện giao thông: https://universe.roboflow.com/lynkeus03/vehicle-detection-by9xs/dataset/3
+Vạch dừng: https://universe.roboflow.com/unita2/stop-line-and-traffic-lights
+
+AI Tools: Grok, Chat, Claude

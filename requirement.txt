@@ -1,0 +1,17 @@
+torch>=2.0.0
+ultralytics>=8.1.0
+pyyaml
+opencv-python
+pillow
+numpy
+matplotlib
+seaborn
+scikit-learn
+pandas
+tqdm
+gradio
+
+# Optional (uncomment if needed)
+# jupyterlab
+# requests
+# flask

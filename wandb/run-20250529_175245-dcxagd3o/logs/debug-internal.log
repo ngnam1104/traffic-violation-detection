@@ -1,0 +1,20 @@
+{"time":"2025-05-29T17:52:45.7155227+07:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"D:\\Documents\\HUST\\2022-2026\\20242\\ProjectII\\traffic_violation_detection\\wandb\\run-20250529_175245-dcxagd3o\\logs\\debug-core.log"}
+{"time":"2025-05-29T17:52:46.600808+07:00","level":"INFO","msg":"created new stream","id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:46.6018191+07:00","level":"INFO","msg":"stream: started","id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:46.6033295+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:46.6033295+07:00","level":"INFO","msg":"handler: started","stream_id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:46.6033295+07:00","level":"INFO","msg":"sender: started","stream_id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:46.8021217+07:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-29T17:52:46.8021217+07:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}
+{"time":"2025-05-29T17:52:47.8141973+07:00","level":"INFO","msg":"stream: closing","id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:48.0125789+07:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-29T17:52:48.0125789+07:00","level":"ERROR","msg":"sender: sendConfig:","error":"returned error 403: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}
+{"time":"2025-05-29T17:52:48.0656268+07:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-29T17:52:48.0656268+07:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project my-awesome-team-name/my-awesome-project not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-05-29T17:52:48.2727475+07:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-29T17:52:48.2727475+07:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project my-awesome-team-name/my-awesome-project not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-05-29T17:52:48.2727475+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-29T17:52:48.2732572+07:00","level":"INFO","msg":"handler: closed","stream_id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:48.2732572+07:00","level":"INFO","msg":"sender: closed","stream_id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:48.2732572+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dcxagd3o"}
+{"time":"2025-05-29T17:52:48.2732572+07:00","level":"INFO","msg":"stream: closed","id":"dcxagd3o"}

@@ -1,0 +1,16 @@
+2025-05-29 17:52:45,522 INFO    MainThread:364 [wandb_setup.py:_flush():70] Current SDK version is 0.19.11
+2025-05-29 17:52:45,523 INFO    MainThread:364 [wandb_setup.py:_flush():70] Configure stats pid to 364
+2025-05-29 17:52:45,523 INFO    MainThread:364 [wandb_setup.py:_flush():70] Loading settings from C:\Users\nhn26\.config\wandb\settings
+2025-05-29 17:52:45,523 INFO    MainThread:364 [wandb_setup.py:_flush():70] Loading settings from D:\Documents\HUST\2022-2026\20242\ProjectII\traffic_violation_detection\wandb\settings
+2025-05-29 17:52:45,524 INFO    MainThread:364 [wandb_setup.py:_flush():70] Loading settings from environment variables
+2025-05-29 17:52:45,525 INFO    MainThread:364 [wandb_init.py:setup_run_log_directory():724] Logging user logs to D:\Documents\HUST\2022-2026\20242\ProjectII\traffic_violation_detection\wandb\run-20250529_175245-dcxagd3o\logs\debug.log
+2025-05-29 17:52:45,526 INFO    MainThread:364 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to D:\Documents\HUST\2022-2026\20242\ProjectII\traffic_violation_detection\wandb\run-20250529_175245-dcxagd3o\logs\debug-internal.log
+2025-05-29 17:52:45,527 INFO    MainThread:364 [wandb_init.py:init():852] calling init triggers
+2025-05-29 17:52:45,527 INFO    MainThread:364 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10, '_wandb': {}}
+2025-05-29 17:52:45,527 INFO    MainThread:364 [wandb_init.py:init():893] starting backend
+2025-05-29 17:52:45,527 INFO    MainThread:364 [wandb_init.py:init():897] sending inform_init request
+2025-05-29 17:52:45,690 INFO    MainThread:364 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-05-29 17:52:45,690 INFO    MainThread:364 [wandb_init.py:init():907] backend started and connected
+2025-05-29 17:52:45,696 INFO    MainThread:364 [wandb_init.py:init():1005] updated telemetry
+2025-05-29 17:52:45,705 INFO    MainThread:364 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
