@@ -1,5 +1,0 @@
-names: [crosswalk, License_Plate, stop_line, traffic_lights, sign_B1, sign_B2, sign_B3, Traffic Light -Red, Traffic Light -Green, Traffic Light -Off, Traffic Light -Yellow, bus, pickup-van, microbus, car, motorbike, truck]
-nc: 17
-test: test/images
-train: train/images
-val: valid/images

@@ -10,6 +10,8 @@ scikit-learn
 pandas
 tqdm
 gradio
+easyocr
+json
 
 # Optional (uncomment if needed)
 # jupyterlab
