@@ -26,6 +26,8 @@ Run the main script to load the trained model and launch the Gradio interface:
 python main.py
 ```
 
+Result in violation_result.json
+
 # Notes
 
 * Make sure your dataset configuration file `datasets/data.yaml` is correctly set up with class names and paths.
