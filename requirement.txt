@@ -1,19 +1,30 @@
+# --- Core deep learning ---
 torch>=2.0.0
+torchvision
 ultralytics>=8.1.0
-pyyaml
+
+# --- Image processing ---
 opencv-python
 pillow
+imageio
+
+# --- Data science stack ---
 numpy
 matplotlib
 seaborn
 scikit-learn
 pandas
 tqdm
-gradio
-easyocr
-json
+pyyaml
 
-# Optional (uncomment if needed)
-# jupyterlab
-# requests
-# flask
+# --- Web UI / frontend demo ---
+gradio
+
+# --- OCR libraries ---
+easyocr>=1.6.2
+paddleocr
+paddlepaddle==2.5.2
+pytesseract
+
+# --- JSON parsing (optional utility) ---
+json5

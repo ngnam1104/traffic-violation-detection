@@ -1,8 +1,14 @@
 [
   {
-    "licensePlate": "EiT",
-    "violationType": "DUNG_LEN_VACH",
-    "timestamp": "2025-06-14T21:34:42",
-    "location": "Ngã tư Trần Duy Hưng"
+    "licensePlate": "90LD00322",
+    "violationType": "Dừng xe trên vạch dành cho người đi bộ",
+    "timestamp": "2025-06-21 02:29:34",
+    "location": "Nguyen Du street, HCM"
+  },
+  {
+    "licensePlate": "29A12345",
+    "violationType": "Vượt đèn đỏ",
+    "timestamp": "2025-06-21 02:29:49",
+    "location": "lakecheyenne"
   }
 ]
