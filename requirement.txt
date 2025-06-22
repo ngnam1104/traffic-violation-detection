@@ -17,8 +17,9 @@ pandas
 tqdm
 pyyaml
 
-# --- Web UI / frontend demo ---
+# --- Web / App ---
 gradio
+requests==2.31.0
 
 # --- OCR libraries ---
 easyocr>=1.6.2
